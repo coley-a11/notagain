@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+JP:300, 300i&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap');
+
+body {
+  font-family: "Lato";
+  /*color: #1f1f1f;*/
+  color: #404040;
+  font-size: 16px;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Noto Serif JP";
+  letter-spacing: 2px;
+  line-height: 2rem; /* increases, so wrapping headers don't overlap */ 
+  color: #ca225e;
+  font-weight: 300;
+}
+
+d-title {
+  padding-top: 13rem; /*so that navbar doesn't overlap fixed title */
+}
+
+d-title h1,
+d-article h2 {
+	font-weight: 300;
+}
+
+
+
+
+/* -------------Appendix---------------- */
+
+d-appendix {
+  background-color: #fdf7f9;
+  border-top: none !important;
+  color: #1a162d !important;
+}
+
+/* -------------Footer------------------*/
+
+.distill-site-footer {
+  color: #7e7b88;
+  background-color: #ca225e3d;
+  margin-top: 0px;
+  padding: 50px 20px;
+  font-size: 13px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  line-height: 12px;
+  
+}
+
+d-byline div.byline.grid div p,
+d-byline,
+d-byline p,
+p.author,
+p.affiliation,
+d-byline h3,
+.d-toc,
+.d-toc-header,
+.d-toc ul,
+d-appendix p {
+	font-size: 0.9rem;
+}
+
+d-appendix h3 + * {
+	margin-top: 1.5em !important;
+}
+
+
+/*----- COLORED LIST BULLET----*/
+
+d-article ul {
+  list-style: none; /* Remove default bullets */
+}
+
+d-article ul li::before {
+  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: #CA225E; /* Change the color */
+  font-weight: normal; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1.5em; /* Also needed for space (tweak if needed) */
+  margin-left: -1.5em; /* Also needed for space (tweak if needed) */
+}
+
+d-article ul > li > p {
+  display: inline; /* to have content show up next to bullet */
+  line-height: 1.6em;
+}
+
+d-article ul > li { /*to add back in space between bullet items that I took away by making p display inline */
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.d-toc ul li::before {
+  content: " ";  /* Remove toc bullets */
+}

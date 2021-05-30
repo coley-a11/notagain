@@ -1,0 +1,62 @@
+---
+title: "Nicole's CV"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+![](image0.jpeg){width=50%}
+
+## About me :
+
+I am a hardworking and energetic individual who strives to achieve to the highest standard. I have recently graduated from Victoria University of Wellington with a BSc majoring in Psychology and Statistics and I am currently undertaking my honours degrees in Psychology. I have privately tutored both university and high school students in various topics both related and unrelated to my degree. I have additionally tutored for one trimester in the School of Psychology.
+
+## Skills :
+
+- The ability to effectively work as a team member
+- Effective communication of technical terms to a variety of knowledge levels
+- Effective time management
+- Confident Using R and Jamovi, familiar with SAS Enterprise Guide, SPSS, and iNZight
+- Confident using Microsoft Programs (Excel, Word, etc.)
+
+## Tertiary Education
+
+Victoria University, Wellington – BsC (Psychology and Statistics) - 2018 - 2020
+- Graduated in 2021 with a GPA of 8.8  
+
+### Scholarships and Prizes  
+- Joseph Samuel Beaglehole Prize - granted to the best student in 300-level courses who is proceeding to Honours in Psychology
+- Deans List 2019, 2020
+
+- Te Tini a Rehua Excellence Award 2020 (Faculty of Science), granted to the top Māori Undergraduate in the Faculty of Science
+- Wellington Graduate Award 2021, granted to students with a 300-level GPA of 8 or higher
+- GWW Second Year Scholarship 2019, granted based on first year undergraduate academic success
+
+- Rotary Club of Wellington Science Prize 2019 - Psychology, granted to the top first year Psychology Student
+
+- Victoria Excellence Leavers scholarship, granted based on high-school academic success
+
+- Māori Pasifika Scholarship, granted for high-school academic success for Māori students
+
+## Experience :
+
+### Tutoring  Experience
+#### Victoria University Psychology Tutor - 2021
+- Tutored for two required psychology courses, both including a range of statistical concepts. These roles included in-person tutoring of classes up to 20 students and marking of both written assignments and tests
+
+#### Private Tutor, MyTuition, Wellington – August 2018 - November 2020
+- Through MyTuition I have learnt how to work with students with varying ranges of skills and learning styles. This job required me to organise lessons with students and submit timesheets after said lessons.
+
+#### Psychology First Year Mentor, Pasifika Academic Mentoring Programme, Victoria University of Wellington – Trimester One 2019  
+- Mentored a first year student in PSYC 121 as part of volunteering for the Pasifika Academic Mentoring Programme. Volunteering involved organising weekly meetings and timesheets.
+
+#### Private University Tutoring – March 2020 - October 2020  
+- Privately tutored a mature student completing a GradDip in psychology/ statistics papers at Victoria University of Wellington ( PSYC 232, PSYC 325 and STAT 193 )
+
+

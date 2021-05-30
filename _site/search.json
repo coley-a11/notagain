@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-05-30T18:01:10+12:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Nicole's CV",
+      "author": [],
+      "contents": "\n\nAbout me :\nI am a hardworking and energetic individual who strives to achieve to the highest standard. I have recently graduated from Victoria University of Wellington with a BSc majoring in Psychology and Statistics and I am currently undertaking my honours degrees in Psychology. I have privately tutored both university and high school students in various topics both related and unrelated to my degree. I have additionally tutored for one trimester in the School of Psychology.\nSkills :\nThe ability to effectively work as a team member\nEffective communication of technical terms to a variety of knowledge levels\nEffective time management\nConfident Using R and Jamovi, familiar with SAS Enterprise Guide, SPSS, and iNZight\nConfident using Microsoft Programs (Excel, Word, etc.)\nTertiary Education\nVictoria University, Wellington – BsC (Psychology and Statistics) - 2018 - 2020 - Graduated in 2021 with a GPA of 8.8\nScholarships and Prizes\nJoseph Samuel Beaglehole Prize - granted to the best student in 300-level courses who is proceeding to Honours in Psychology\nDeans List 2019, 2020\nTe Tini a Rehua Excellence Award 2020 (Faculty of Science), granted to the top Māori Undergraduate in the Faculty of Science\nWellington Graduate Award 2021, granted to students with a 300-level GPA of 8 or higher\nGWW Second Year Scholarship 2019, granted based on first year undergraduate academic success\nRotary Club of Wellington Science Prize 2019 - Psychology, granted to the top first year Psychology Student\nVictoria Excellence Leavers scholarship, granted based on high-school academic success\nMāori Pasifika Scholarship, granted for high-school academic success for Māori students\nExperience :\nTutoring Experience\nVictoria University Psychology Tutor - 2021\nTutored for two required psychology courses, both including a range of statistical concepts. These roles included in-person tutoring of classes up to 20 students and marking of both written assignments and tests\nPrivate Tutor, MyTuition, Wellington – August 2018 - November 2020\nThrough MyTuition I have learnt how to work with students with varying ranges of skills and learning styles. This job required me to organise lessons with students and submit timesheets after said lessons.\nPsychology First Year Mentor, Pasifika Academic Mentoring Programme, Victoria University of Wellington – Trimester One 2019\nMentored a first year student in PSYC 121 as part of volunteering for the Pasifika Academic Mentoring Programme. Volunteering involved organising weekly meetings and timesheets.\nPrivate University Tutoring – March 2020 - October 2020\nPrivately tutored a mature student completing a GradDip in psychology/ statistics papers at Victoria University of Wellington ( PSYC 232, PSYC 325 and STAT 193 )\n\n\n\n",
+      "last_modified": "2021-05-30T18:01:11+12:00"
+    },
+    {
+      "path": "works.html",
+      "title": "Oooops this is still a work in progress :/",
+      "author": [],
+      "contents": "\n\n\n\n\n\n\n\n\nnotagain\n\n\nHome\nWorks\n☰\n\n\n  \n    \n      \n        \n        \n        \n      \n      \n    \n    \n      \n  Home\n\n\n  Works\n\n      \n  \n\n\n\n\n\n\nOooops this is still a work in progress :/\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// add bootstrap table styles to pandoc tables\nfunction bootstrapStylePandocTables() {\n  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');\n}\n$(document).ready(function () {\n  bootstrapStylePandocTables();\n});\n\n\n\n$(document).ready(function () {\n  window.buildTabsets(\"TOC\");\n});\n\n$(document).ready(function () {\n  $('.tabset-dropdown > .nav-tabs > li').click(function () {\n    $(this).parent().toggleClass('nav-tabs-open');\n  });\n});\n\n  (function () {\n    var script = document.createElement(\"script\");\n    script.type = \"text/javascript\";\n    script.src  = \"https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML\";\n    document.getElementsByTagName(\"head\")[0].appendChild(script);\n  })();\n",
+      "last_modified": "2021-05-30T18:01:11+12:00"
+    }
+  ],
+  "collections": []
+}

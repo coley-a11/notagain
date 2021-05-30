@@ -1,0 +1,13 @@
+name: "notagain"
+title: "notagain"
+theme: styles.css
+description: |
+  My Website
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Works"
+      href: works.html
+output: distill::distill_article
